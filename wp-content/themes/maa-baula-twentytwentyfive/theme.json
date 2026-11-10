@@ -1,0 +1,84 @@
+{
+  "$schema": "https://schemas.wp.org/wp/6.7/theme.json",
+  "version": 3,
+  "settings": {
+    "appearanceTools": true,
+    "color": {
+      "palette": [
+        {
+          "color": "#091b3d",
+          "name": "Industrial navy",
+          "slug": "industrial-navy"
+        },
+        {
+          "color": "#06132d",
+          "name": "Deep navy",
+          "slug": "deep-navy"
+        },
+        {
+          "color": "#12396f",
+          "name": "Royal blue",
+          "slug": "royal-blue"
+        },
+        {
+          "color": "#e8a91c",
+          "name": "Industrial gold",
+          "slug": "industrial-gold"
+        },
+        {
+          "color": "#f3c54f",
+          "name": "Light gold",
+          "slug": "light-gold"
+        },
+        {
+          "color": "#f6f7f8",
+          "name": "Light grey",
+          "slug": "light-grey"
+        }
+      ],
+      "custom": false,
+      "defaultPalette": false
+    },
+    "layout": {
+      "contentSize": "1200px",
+      "wideSize": "1440px"
+    },
+    "typography": {
+      "fluid": true,
+      "fontFamilies": [
+        {
+          "fontFamily": "\"DM Sans\", sans-serif",
+          "name": "DM Sans",
+          "slug": "dm-sans"
+        },
+        {
+          "fontFamily": "Manrope, sans-serif",
+          "name": "Manrope",
+          "slug": "manrope"
+        }
+      ]
+    }
+  },
+  "styles": {
+    "elements": {
+      "heading": {
+        "typography": {
+          "fontFamily": "Manrope, sans-serif",
+          "fontWeight": "700"
+        }
+      }
+    },
+    "color": {
+      "background": "#ffffff",
+      "text": "#122443"
+    },
+    "spacing": {
+      "blockGap": "0"
+    },
+    "typography": {
+      "fontFamily": "\"DM Sans\", sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "1.7"
+    }
+  }
+}
